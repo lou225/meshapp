@@ -140,3 +140,33 @@
   border: 0px;
   box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
 }
+
+#section_3 {
+  background-color: #F8F8F8;
+}
+
+.title h1 {
+  font-weight: 600;
+  color: #3d3d3d;
+}
+
+.title h2 {
+  margin-top: 10px;
+  font-weight: 300;
+  color: #a7a7a7;
+}
+
+.text p {
+  color: #9C9C9C;
+}
+
+.left {
+  float: left;
+  margin-top: 100px;
+  margin-left: 70px;
+}
+
+.tph-block {
+  float: right;
+  margin-right: 348;
+}
