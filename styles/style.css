@@ -126,7 +126,7 @@ body {
 }
 
 .main-block-2 {
-  padding: 50px;
+  padding: 0px;
   text-align: center;
 }
 
@@ -139,3 +139,8 @@ body {
   box-shadow: 50px;
   border: 0px;
 }
+
+#section_3 {
+  background-color: #F8F8F6;
+}
+
