@@ -92,7 +92,7 @@
   margin-left: 10px;
 }
 
-.butto.btn-rounded {
+.button.btn-rounded {
   border-radius: 35px;
 }
 
@@ -163,7 +163,13 @@
 .left {
   float: left;
   margin-top: 100px;
-  margin-left: 70px;
+  margin-left: 0px;
+}
+
+.left.text p {
+  padding: 100px;
+  font-size: 25px;
+  font-weight: 500;
 }
 
 .tph-block {
