@@ -176,3 +176,97 @@
   float: right;
   margin-left: 400px;
 }
+
+.four-block {
+  text-align: center;
+}
+
+.center h1 {
+  font-size: 40px;
+  margin-top: 50px;
+  color: #3c3c3a;
+  font-weight: 400;
+}
+
+.center p {
+  margin: 50px 0px;
+  font-size: 20px;
+  font-weight: 400;
+  color: #3b3c3e;
+  line-height: 1.2;
+}
+
+.center button {
+  margin-bottom: 110px;
+}
+
+.jun {
+  padding: 20px 30px;
+  font-size: 20px;
+  font-weight: bold;
+  background-color: #FBEC6F;
+  margin-left: 40px;
+  border: 0;
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.jun a {
+  text-decoration: none;
+  color: white;
+}
+
+.center input {
+  font-size: 20px;
+  padding: 20px 140px 20px 20px;
+  border: 0;
+  text-align: left;
+  box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+#section_5 {
+  background-color: #2e2e2e;
+}
+
+.lmy {
+  margin: 60px 0px 0px 0px;
+}
+
+.col-md-12 {
+  text-align: center;
+}
+
+.end-menu ul {
+  font-size: 20px;
+  list-style: none;
+}
+
+.end-menu ul li {
+  display: inline-block;
+}
+
+.end-menu ul li a {
+  text-decoration: none;
+  color: white;
+  font-size: 18px;
+  font-weight: 300;
+}
+
+.end-menu li {
+  margin: 8px;
+}
+
+.p {
+  margin: 10px 0px;
+}
+
+.p p {
+  color: #9e9e9e;
+  margin-bottom: 50px;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.end-menu {
+  margin: 15px 0px;
+}
+
